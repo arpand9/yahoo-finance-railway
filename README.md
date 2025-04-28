@@ -14,3 +14,15 @@ Click the button below to deploy to Railway:
   Fetches the latest closing price for a given stock ticker.
 
 Example:
+GET https://your-app-url.up.railway.app/stock/AAPL
+
+
+## 🛠 Tech Stack
+- FastAPI
+- Uvicorn
+- yFinance
+- Railway
+
+---
+
+⚠️ **Note**: This API is for educational and personal use only. Yahoo Finance data usage must comply with Yahoo's Terms of Service.
