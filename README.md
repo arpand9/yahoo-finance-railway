@@ -6,7 +6,7 @@ This template deploys a simple FastAPI application that uses [yfinance](https://
 
 Click the button below to deploy to Railway:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?templateUrl=https://github.com/arpand9/yahoo-finance-railway)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/ELjUB8?referralCode=mWH1By)
 
 
 # 📈 Stock Market API (powered by yFinance)
